@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.proj.empsystem.entity.emp;
-import com.proj.empsystem.pository.emprepo;
+import com.proj.empsystem.repository.emprepo;
 
 @Service
 public class empservice {
